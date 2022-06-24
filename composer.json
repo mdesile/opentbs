@@ -16,6 +16,6 @@
         "tinybutstrong/tinybutstrong": ">=3.13.2"
     },
     "autoload": {
-        "classmap": ["tbs_plugin_opentbs.php"]
+        "files": ["tbs_plugin_opentbs.php"]
     }
 }
